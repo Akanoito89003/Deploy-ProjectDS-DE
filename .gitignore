@@ -2,4 +2,3 @@ venv/
 checkpoints/
 lightning_logs/
 .env
-save_models/
