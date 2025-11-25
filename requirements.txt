@@ -12,3 +12,6 @@ matplotlib
 holidays
 lightning
 ta
+fastapi
+uvicorn
+gunicorn
